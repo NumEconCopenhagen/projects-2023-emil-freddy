@@ -1,9 +1,8 @@
-# \[Group name\]
+# \[Emil & Freddy\]
 
 **Group members:**
-- A
-- B
-- C
+- Emil Baand Rasmussen
+- Frederik Skov
 
 This repository contains  
 1. Inaugural project. 
